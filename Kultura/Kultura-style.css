@@ -1,0 +1,129 @@
+.naslov{color: black}
+body {
+	background-image: url("kultura2.png"); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.uvod{ text-shadow: 2px 3px gray;
+
+
+}
+.naslov{font-size: 40px;
+	font-family: times;
+	padding-left: 50px;
+	padding-top: 50px;
+	letter-spacing: 3px;
+
+}
+.ukratko{ font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+
+}
+.muzeji{
+	padding-left: 35px;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.omuzejima{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+}
+.slika{
+	float: right;
+	border-radius: 15px;
+}
+.Džamije{
+	padding-left: 35px;
+	padding-top: 20px;
+	font-size: 30px;
+	
+}
+.odzamijama{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+}
+.ajasofija{
+	float: right;
+	border-radius: 15px;
+	width: 500px;
+	height: 300px;
+}
+.tipovi{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: black
+}
+.ranog{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: black
+	
+}
+.gradjevine{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+}
+.mahmut{
+	padding-right: 100px;
+	float: right;
+	width: 400px;
+	height: 200px;
+}
+.mehmet{
+	float: right;
+	border-radius: 15px;
+	width: 
+	height: 
+}
+.lista{
+	padding-left: 15px;
+}
+.lista1{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+}
+.hrana{
+	float: right;
+	padding: 35px;
+	border-radius: 35px ;
+	width: 500px;
+	height: 300px;
+}
+.svetla{
+	padding: 90px;
+	border-radius: 35px;
+	width: 550px;
+	height: 300px;
+}
+.izvori{
+	color: black;
+	text-shadow: none;
+
+}

@@ -1,0 +1,65 @@
+.naslov{color: black}
+body {
+	background-image: url("slika4.png"); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+
+.uvod{ text-shadow: 2px 3px gray;
+
+}
+.naslov{font-size: 40px;
+	font-family: times;
+	padding-top: 50px;
+	padding-left: 60px;
+	letter-spacing: 3px;
+}
+.istorija{
+	padding-left: 35px;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.oistoriji{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	text-shadow: none;
+	letter-spacing: 1px;
+	color: white
+}
+.stari{
+	float: right;
+	width: 550px;
+	height: 350px;
+	border-radius: 5px;
+
+}
+.oistoriji1{
+	padding-top: 85px;
+	padding-left: 15px;
+	letter-spacing: 1px;
+	text-shadow: none;
+	color: white;
+	font-size: 20px;
+}
+.polozaj{
+	float: right;
+	border-radius: 30px;
+}
+.stanovnici{float: right;
+	border-radius: 35px;
+	width: 450px;
+}
+.oistoriji2{
+	padding-left: 15px;
+	letter-spacing: 1px;
+	text-shadow: none;
+	color: white;
+	font-size: 20px;
+}
+.izvori{
+	color: black;
+	text-shadow: none; }
